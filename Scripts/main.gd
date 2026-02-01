@@ -12,3 +12,4 @@ func _process(delta):
 	print_tree()
 	print("NEEW GIT TEST")
 	print("test")
+	print("Testing branch rules")
