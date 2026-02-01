@@ -10,3 +10,5 @@ func _ready():
 func _process(delta):
 	print("Hello")
 	print_tree()
+	print("NEEW GIT TEST")
+	print("test")
